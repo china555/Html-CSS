@@ -1,0 +1,15 @@
+.textd {
+    font-size: 56;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(196, 145, 243);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+
+}
+.navitem{
+    
+}
+
